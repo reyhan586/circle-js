@@ -12,6 +12,7 @@ body{
     height: 150px;
     background-color: rgb(254, 54, 4);
     border-radius: 100%;
+    box-shadow: 3px 5px 10px;
     position: absolute;
     transition: all .35s linear;
     left: 20%;
